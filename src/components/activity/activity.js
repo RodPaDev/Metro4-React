@@ -1,9 +1,9 @@
 import React from "react";
-import Ring from "./ring.jsx";
-import Metro from "./metro.jsx";
-import Square from "./square.jsx";
-import Cycle from "./cycle.jsx";
-import Simple from "./simple.jsx";
+import Ring from "./ring.js";
+import Metro from "./metro.js";
+import Square from "./square.js";
+import Cycle from "./cycle.js";
+import Simple from "./simple.js";
 
 import "./activity.less";
 

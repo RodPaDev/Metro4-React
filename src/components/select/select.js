@@ -1,9 +1,9 @@
 import React, {Children} from "react";
 import "./select.less";
 import "../d-menu/d-menu.less";
-import Collapse from "../collapse/collapse.jsx";
-import Input from "../input/input.jsx";
-import Tag from "../tag/tag.jsx"
+import Collapse from "../collapse/collapse.js";
+import Input from "../input/input.js";
+import Tag from "../tag/tag.js"
 
 export default class Select extends React.Component {
     static getDerivedStateFromProps(props, state){

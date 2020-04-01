@@ -1,6 +1,6 @@
 import React from "react";
 import "./input.less";
-import Button from "../button/button.jsx";
+import Button from "../button/button.js";
 
 const AutocompleteListItem = ({start, coincidence, end}) => {
     return (

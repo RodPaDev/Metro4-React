@@ -1,5 +1,5 @@
 import React from "react";
-import Collapse from "../collapse/collapse.jsx";
+import Collapse from "../collapse/collapse.js";
 import "./accordion.less";
 
 export class AccordionFrame extends React.Component {

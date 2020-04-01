@@ -1,5 +1,5 @@
 import React from "react";
-import Icon from "../icon/icon.jsx";
+import Icon from "../icon/icon.js";
 import "./button.less";
 import Badge from "../badge/badge";
 

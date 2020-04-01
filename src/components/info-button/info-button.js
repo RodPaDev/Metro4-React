@@ -1,5 +1,5 @@
 import React from "react";
-import Icon from "../icon/icon.jsx";
+import Icon from "../icon/icon.js";
 import "./info-button.less";
 
 export default class InfoButton extends React.Component {

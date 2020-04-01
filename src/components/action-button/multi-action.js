@@ -1,6 +1,6 @@
 import React from "react";
-import ActionButton from "./action-button.jsx";
-import Icon from "../icon/icon.jsx";
+import ActionButton from "./action-button.js";
+import Icon from "../icon/icon.js";
 import "./action-button.less";
 
 export class MultiActionItem extends React.Component {
